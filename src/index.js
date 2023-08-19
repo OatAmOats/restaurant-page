@@ -1,1 +1,3 @@
-alert('pee pee');
+import initializeWebsite from "./website";
+
+initializeWebsite();
